@@ -1,0 +1,17 @@
+{
+    "name": "klarna/klarna_ksc",
+    "license": "Apache License 2.0",
+    "type": "magento-module",
+    "description": "klarna+Klarna_Checkout",
+    "authors": [
+        {
+            "name": "Klarna",
+            "email":"info@klarna.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+
+

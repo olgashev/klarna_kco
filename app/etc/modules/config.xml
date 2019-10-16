@@ -1,0 +1,11 @@
+<config>
+    <klarna>
+        <api_types>
+            <kred>
+                <options>
+                    <packstation_support>1</packstation_support>
+                </options>
+            </kred>
+        </api_types>
+    </klarna>
+</config>
